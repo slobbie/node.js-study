@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/slobbiebo2/Desktop/node-study/logs/.b7c7f095b55df1f3007a25d6ac9fe0903f475b1c-audit.json",
+    "files": [
+        {
+            "date": 1652972609413,
+            "name": "/Users/slobbiebo2/Desktop/node-study/logs/222022-05-20.log",
+            "hash": "3765cf28b6d0ee02487e203cd8fe507d"
+        }
+    ],
+    "hashType": "md5"
+}
